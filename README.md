@@ -1,5 +1,5 @@
 ### Hello, my name is Huang.
-- Recent graduate from Le Wagon Canda
+- Recent graduate from Le Wagon Canada
 - Currently polishing my Ruby and learning JavaScript
 
 <div align="center">
